@@ -1,5 +1,5 @@
 {
-  "openRouterApiKey": "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",
+  "openRouterApiKey": "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",
   "models": [
     {
       "id": "nvidia/llama-3.1-nemotron-70b-instruct:free",
