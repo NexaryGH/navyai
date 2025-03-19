@@ -1,5 +1,5 @@
 {
-  "openRouterApiKey": "TU_API_KEY_AQUÍ",
+  "openRouterApiKey": "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",
   "models": [
     {
       "id": "nvidia/llama-3.1-nemotron-70b-instruct:free",
@@ -24,7 +24,7 @@
     {
       "id": "google/gemma-3-27b-it:free",
       "name": "Gemma 3 27B",
-      "image": "images/gemma.png"
+      "image": "images/gemini.png"
     },
     {
       "id": "rekaai/reka-flash-3:free",
