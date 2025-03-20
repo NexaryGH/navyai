@@ -1,0 +1,185 @@
+{
+  "openRouterApiKey": "TU_API_KEY_AQUÍ",
+  "models": [
+    {
+      "id": "gryphe/mythomax-l2-13b:free",
+      "name": "MythoMax L2 13B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "mistralai/mistral-small-3.1-24b-instruct:free",
+      "name": "Mistral Small 3.1 24B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "open-r1/olympiccoder-7b:free",
+      "name": "OlympicCoder 7B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "open-r1/olympiccoder-32b:free",
+      "name": "OlympicCoder 32B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "google/gemma-3-1b-it:free",
+      "name": "Gemma 3 1B",
+      "image": "images/gemma.png"
+    },
+    {
+      "id": "google/gemma-3-4b-it:free",
+      "name": "Gemma 3 4B",
+      "image": "images/gemma.png"
+    },
+    {
+      "id": "google/gemma-3-12b-it:free",
+      "name": "Gemma 3 12B",
+      "image": "images/gemma.png"
+    },
+    {
+      "id": "rekaai/reka-flash-3:free",
+      "name": "Reka Flash 3",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "google/gemma-3-27b-it:free",
+      "name": "Gemma 3 27B",
+      "image": "images/gemma.png"
+    },
+    {
+      "id": "deepseek/deepseek-r1-zero:free",
+      "name": "DeepSeek R1 Zero",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "qwen/qwq-32b:free",
+      "name": "Qwen QWQ 32B",
+      "image": "images/qwen.png"
+    },
+    {
+      "id": "moonshotai/moonlight-16b-a3b-instruct:free",
+      "name": "Moonlight 16B A3B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "nousresearch/deephermes-3-llama-3-8b-preview:free",
+      "name": "DeepHermes 3 LLaMA 3 8B",
+      "image": "images/llama.png"
+    },
+    {
+      "id": "cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
+      "name": "Dolphin 3.0 R1 Mistral 24B",
+      "image": "images/dolphin.png"
+    },
+    {
+      "id": "cognitivecomputations/dolphin3.0-mistral-24b:free",
+      "name": "Dolphin 3.0 Mistral 24B",
+      "image": "images/dolphin.png"
+    },
+    {
+      "id": "google/gemini-2.0-flash-lite-preview-02-05:free",
+      "name": "Gemini 2.0 Flash Lite Preview",
+      "image": "images/gemini.png"
+    },
+    {
+      "id": "google/gemini-2.0-pro-exp-02-05:free",
+      "name": "Gemini 2.0 Pro Exp",
+      "image": "images/gemini.png"
+    },
+    {
+      "id": "qwen/qwen2.5-vl-72b-instruct:free",
+      "name": "Qwen 2.5 VL 72B",
+      "image": "images/qwen.png"
+    },
+    {
+      "id": "mistralai/mistral-small-24b-instruct-2501:free",
+      "name": "Mistral Small 24B 2501",
+      "image": "images/mistral.png"
+    },
+    {
+      "id": "deepseek/deepseek-r1-distill-qwen-32b:free",
+      "name": "DeepSeek R1 Distill Qwen 32B",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "deepseek/deepseek-r1-distill-qwen-14b:free",
+      "name": "DeepSeek R1 Distill Qwen 14B",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "deepseek/deepseek-r1-distill-llama-70b:free",
+      "name": "DeepSeek R1 Distill LLaMA 70B",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "google/gemini-2.0-flash-thinking-exp:free",
+      "name": "Gemini 2.0 Flash Thinking Exp",
+      "image": "images/gemini.png"
+    },
+    {
+      "id": "deepseek/deepseek-r1:free",
+      "name": "DeepSeek R1",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "sophosympatheia/rogue-rose-103b-v0.2:free",
+      "name": "Rogue Rose 103B",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "deepseek/deepseek-chat:free",
+      "name": "DeepSeek Chat",
+      "image": "images/deepseek.png"
+    },
+    {
+      "id": "google/gemini-2.0-flash-thinking-exp-1219:free",
+      "name": "Gemini 2.0 Flash Thinking Exp 1219",
+      "image": "images/gemini.png"
+    },
+    {
+      "id": "google/gemini-exp-1206:free",
+      "name": "Gemini Exp 1206",
+      "image": "images/gemini.png"
+    },
+    {
+      "id": "qwen/qwq-32b-preview:free",
+      "name": "Qwen QWQ 32B Preview",
+      "image": "images/qwen.png"
+    },
+    {
+      "id": "google/learnlm-1.5-pro-experimental:free",
+      "name": "LearnLM 1.5 Pro Experimental",
+      "image": "images/unknown.png"
+    },
+    {
+      "id": "qwen/qwen-2.5-coder-32b-instruct:free",
+      "name": "Qwen 2.5 Coder 32B",
+      "image": "images/qwen.png"
+    },
+    {
+      "id": "nvidia/llama-3.1-nemotron-70b-instruct:free",
+      "name": "LLaMA 3.1 Nemotron 70B",
+      "image": "images/llama.png"
+    },
+    {
+      "id": "meta-llama/llama-3.2-3b-instruct:free",
+      "name": "LLaMA 3.2 3B",
+      "image": "images/llama.png"
+    },
+    {
+      "id": "meta-llama/llama-3.2-1b-instruct:free",
+      "name": "LLaMA 3.2 1B",
+      "image": "images/llama.png"
+    },
+    {
+      "id": "meta-llama/llama-3.1-8b-instruct:free",
+      "name": "LLaMA 3.1 8B",
+      "image": "images/llama.png"
+    },
+    {
+      "id": "mistralai/mistral-nemo:free",
+      "name": "Mistral Nemo",
+      "image": "images/mistral.png"
+    }
+  ]
+}
