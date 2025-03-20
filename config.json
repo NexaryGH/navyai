@@ -1,5 +1,5 @@
 {
-  "openRouterApiKey": "TU_API_KEY_AQUÍ",
+  "openRouterApiKey": "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",
   "models": [
     {
       "id": "gryphe/mythomax-l2-13b:free",
